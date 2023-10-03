@@ -1,2 +1,1 @@
-# Thesis_WorkInProgress
-This repository will house documentation for my master's thesis. The repo will be renamed once I've decided upon my topic.
+# (Working Title) Understanding Public Attention Through Wikipedia: The Case of the 2022-2023 Mpox Outbreak
